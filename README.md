@@ -4,9 +4,9 @@
 
 ## What it contains
 
-- [react/recommended](https://eslint.org/docs/latest/user-guide/configuring/configuration-files#using-eslintrecommended)
-- [react-hooks/recommended](https://github.com/sindresorhus/eslint-plugin-unicorn)
-- [plugin:jsx-a11y/strict](https://github.com/sindresorhus/eslint-plugin-unicorn)
+- [react/recommended](https://github.com/jsx-eslint/eslint-plugin-react#recommended)
+- [react-hooks/recommended](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [plugin:jsx-a11y/strict](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 
 Check the full list of rules in [index.js](./index.js)
 
