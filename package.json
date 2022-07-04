@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-start-react",
   "description": "Slightly opinionated ESLint config that should be a good start for any React project",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "dependencies": {
     "eslint-plugin-jsx-a11y": "^6.6.0",
