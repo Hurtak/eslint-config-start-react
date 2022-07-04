@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-start-react",
+  "description": "Slightly opinionated ESLint config that should be a good start for any React project",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-plugin-jsx-a11y": "^6.6.0",
+    "eslint-plugin-react": "^7.30.1",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "scripts": {
+    "release": "npx np"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Petr Hurtak",
+    "email": "petr.hurtak@gmail.com",
+    "url": "https://petrhurtak.com"
+  },
+  "repository": "github:hurtak/eslint-config-start-react.git",
+  "homepage": "https://github.com/Hurtak/eslint-config-start-react",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "verify",
+    "react"
+  ]
+}
